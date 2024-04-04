@@ -1,2 +1,2 @@
-# random_forests_for_legal_audiences
-A two-page description of Random Forests is provided, that is suitable for legal audiences to interpret machine learning algorithms. 
+# Random Forests for Legal Audiences
+This repo contains a two-page description of Random Forests suitable for legal audiences to interpret machine learning algorithms. The idea behind this project was to capture the statistical mechanics of Random Forests, to make the information easier to digest for non-technical (typically legal) audiences, towards the start and end of model development and deployment. 
